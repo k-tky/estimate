@@ -2,6 +2,9 @@
 ### 見積提出日
 - YYYY/MM/DD
 
+### 見積作成者
+- @slackID
+
 ### 見積アーキテクチャ
 - 想定アーキテクチャ図
 ![アーキテクチャ図](https://cloud.google.com/network-connectivity/docs/vpn/images/ha-vpn-gcp-to-on-prem-2-a.svg?hl=ja)
