@@ -4,4 +4,4 @@
 
 #### [fugafuga案件](./fugafuga)
 #### 主要GCPサービス
-- Cloud
+- Cloud VPN
